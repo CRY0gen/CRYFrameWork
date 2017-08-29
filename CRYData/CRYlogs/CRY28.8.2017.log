@@ -1,0 +1,62 @@
+-------------------
+
+[DEBUG] Loading phase stared a few moments before
+[OUTPUT] FrameWork startup Test!!!!!
+[WARNING] ###DEBUG INFO###
+[DEBUG] 	CRYFrameWork Version:1.0.3d
+[DEBUG] 	App Name:1.0.0t
+
+[DEBUG] 	App Version:Test App
+
+[WARNING] ###DEBUG INFO END###
+[WARNING] 
+
+Booting has finished
+[OUTPUT] Starting Test 1...
+[OUTPUT] [*]Starting time: 28/8/2017 21:21:26
+[OUTPUT] [*]Booting program setup...
+[OUTPUT] [*]End Time: 28/8/2017 21:21:28
+[OUTPUT] [*]WorkTime: 1.715923547744751[s]
+[DEBUG] FrameWork ended with 0x1010
+[OUTPUT] WatchDog Result:0x1010
+[OUTPUT] END test!!!
+[OUTPUT] 1° test gone WELL
+[WARNING] User is going too start second test...
+[OUTPUT] Starting test 2...
+[OUTPUT] 0
+[OUTPUT] [*]Starting time: 28/8/2017 21:21:28
+[OUTPUT] [*]Printing help page...
+
+
+    Test App
+ v 1.0.0t
+ by CRY0g3n.
+    FrameWork v. 1.0.3d
+    Free to use/modify, just give me credits.
+    The illegal use of my creations aren't my responsibility, but is user's one.
+
+
+         __          _...._     
+      _cC''Cc_     .&ç''''%&.  \y$.     .R0/
+     cP     'cc    5R     Md^   .2y     y2.
+    CR             RR    I:'     \45   5vc
+    C$             sR_  .Ta       v$v.vRv
+    CR             C14c$3d         °cG3°
+     cR     _cc    Y£   Jcv         xNc
+     'Cp.pC'&"     R3    'vd        bC<  <Softwares&FrameWorks>
+       "''''       t5     1LI       nRn
+
+    <command>           <function>
+     h                   Shows this help page
+
+[OUTPUT] [*]End Time: 28/8/2017 21:21:28
+[OUTPUT] [*]WorkTime: 0.0011110305786132812[s]
+[DEBUG] FrameWork ended with 0x1012
+[OUTPUT] WatchDog Result:0x1012
+[OUTPUT] 2° test gone WELL
+[OUTPUT] Resumee':
+   1°Test: 
+[OUTPUT] PASS
+[OUTPUT] PASS
+[OUTPUT] All the tests gone well, FrameWork can work now :)
+ BYE!
